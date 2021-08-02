@@ -9,7 +9,7 @@ sudo apt-get install make autoconf automake libtool gcc build-essential gfortran
 
 
 
-#Downloading old packages for GEMPAK that are no longer in apt library
+#Downloading old packages for GEMPAK that are no longer in Apt library
 #Libfortran 3.6.5.0
 wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gcc-6/libgfortran3_6.5.0-2ubuntu1~18.04_amd64.deb
 #GCC-6
@@ -26,6 +26,8 @@ wget http://archive.ubuntu.com/ubuntu/pool/universe/x/x11proto-print/x11proto-pr
 #Libxp-dev
 wget http://debian.mirror.garr.it/debian/pool/main/libx/libxp/libxp-dev_1.0.2-2_amd64.deb
 
+
+# Insatlling old packages for GEMPAK that are not in Apt library
 sudo dpkg -i gcc-6-base_6.5.0-2ubuntu1~18.04_amd64.deb
 sudo dpkg -i libgfortran3_6.5.0-2ubuntu1~18.04_amd64.deb 
 sudo dpkg -i multiarch-support_2.27-3ubuntu1_amd64.deb
@@ -33,4 +35,3 @@ sudo dpkg -i libxp6_1.0.2-2_amd64.deb
 sudo dpkg -i x11proto-print-dev_1.0.5-2_all.deb
 sudo dpkg -i libmotif-dev_2.3.8-2build1_amd64.deb
 sudo dpkg -i libxp-dev_1.0.2-2_amd64.deb
-
