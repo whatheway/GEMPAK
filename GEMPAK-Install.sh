@@ -5,7 +5,7 @@
 sudo apt-get update
 sudo apt-get upgrade
 
-sudo apt-get install make autoconf automake libtool gcc build-essential gfortran libx11-dev libxt-dev libxext-dev libmotif-dev libxft-dev libxtst-dev xorg xbitmaps flex byacc
+sudo apt-get install make autoconf automake libtool gcc build-essential gfortran libx11-dev libxt-dev libxext-dev libmotif-dev libxft-dev libxtst-dev xorg xbitmaps flex byacc locate
 
 
 
@@ -18,7 +18,6 @@ wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gcc-6/gcc-6-base_6.5.0-2ub
 wget http://archive.ubuntu.com/ubuntu/pool/universe/m/motif/libmotif-dev_2.3.8-2build1_amd64.deb
 #multiarch-support
 wget http://archive.ubuntu.com/ubuntu/pool/main/g/glibc/multiarch-support_2.27-3ubuntu1_amd64.deb
-
 #Libxp6
 wget ftp.us.debian.org/debian/pool/main/libx/libxp/libxp6_1.0.2-2_amd64.deb
 #x11proto-print-dev
@@ -28,10 +27,22 @@ wget http://debian.mirror.garr.it/debian/pool/main/libx/libxp/libxp-dev_1.0.2-2_
 
 
 # Insatlling old packages for GEMPAK that are not in Apt library
+echo "Installing GC6 BASE"
 sudo dpkg -i gcc-6-base_6.5.0-2ubuntu1~18.04_amd64.deb
+echo "Installing GFORTRAN 3.6.5.0"
 sudo dpkg -i libgfortran3_6.5.0-2ubuntu1~18.04_amd64.deb 
+echo "Installing MULTIARCH-SUPPORT"
 sudo dpkg -i multiarch-support_2.27-3ubuntu1_amd64.deb
+echo "Installing LIBXP6"
 sudo dpkg -i libxp6_1.0.2-2_amd64.deb
+echo "Installing X11PROTO-PRINT-DEV"
 sudo dpkg -i x11proto-print-dev_1.0.5-2_all.deb
+echo "Installing LIBMOTIF-DEV"
 sudo dpkg -i libmotif-dev_2.3.8-2build1_amd64.deb
+echo "Installing LIBXP-DEV"
 sudo dpkg -i libxp-dev_1.0.2-2_amd64.deb
+
+
+#Creating folders for GEMPAK
+mkdir $HOME/GEMPAK
+
