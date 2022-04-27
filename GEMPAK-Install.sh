@@ -71,12 +71,18 @@ cd $HOME/GEMPAK/NAWIPS
 echo 'Make all in progress.'
 echo 'To see code, in new terminal enter (tail -f make.out) in $HOME/GEMPAK/NAWIPS'
 make all >& make.out    # Invoking Make to compile GEMPAK7.14.0.1 w/ tail output.
+
+
 echo 'Make programs_nc in progress'
 echo 'To see code, in new terminal enter (tail -f make.out.nc) in $HOME/GEMPAK/NAWIPS'
 make programs_nc >& make.out.nc 
+
+
 echo 'Make programs_gf in progress'
 echo 'To see code, in new terminal enter (tail -f make.out.gf) in $HOME/GEMPAK/NAWIPS'
 make programs_gf >& make.out.gf
+
+
 echo 'Make install in progress'
 echo 'To see code, in new terminal enter (tail -f make.out.install) in $HOME/GEMPAK/NAWIPS'
 make install >& make.out.install
