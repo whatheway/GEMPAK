@@ -23,4 +23,4 @@
 
 # وقت التشغيل المقدر ~ 15-45 دقيقة
 
-### Special thanks to  GitHub users akrherz & mzuranski
+### شكر خاص لمستخدمي GitHub akrherz & mzuranski
