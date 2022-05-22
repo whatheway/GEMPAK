@@ -35,7 +35,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-          name: Translate README
+         
       - name: Adding README - German
         uses: dephraiim/translate-readme@main
         with:
@@ -56,7 +56,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: ja
-       - name: Adding README - Korean
+      - name: Adding README - Korean
         uses: dephraiim/translate-readme@main
         with:
           LANG: ko
@@ -99,10 +99,9 @@ jobs:
       - name: Adding README - Vietnamese
         uses: dephraiim/translate-readme@main
         with:
-          LANG: vi
-          
+          LANG: vi          
       - name: Adding README - Zulu
         uses: dephraiim/translate-readme@main
         with:
           LANG: zu
-          
+          name: Translate README
