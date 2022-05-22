@@ -1,7 +1,7 @@
 name: Translate README
 
 on:
-  push:
+  clone:
     branches:
       - main
       - master
