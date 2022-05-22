@@ -10,11 +10,11 @@
 >
 > chmod +x GEMPAK-Install.sh
 >
-> ./ΓΕΜΑΠΆΚ-Ινστάλλ.ση
+> ./GEMAPAK-Install.sh
 
 # Βεβαιωθείτε ότι έχετε διαβάσει τη δέσμη ενεργειών GEMPAK-Install πριν την εγκατάσταση.
 
-I have provided comments on what the script is doing and information on configuration files.
+Έχω παράσχει σχόλια σχετικά με το τι κάνει το σενάριο και πληροφορίες σχετικά με τα αρχεία διαμόρφωσης.
 
 Δοκιμασμένο στο Ubuntu 20.04.4 LTS
 Ενσωματωμένο σύστημα 64-bit
