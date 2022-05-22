@@ -1,4 +1,4 @@
-# GEMPAK 7.14.0.1 Self Install Scirpt
+# GEMPAK 7.14.0.1 Scrpt di installazione automatica
 
 Questo è uno script che installa tutte le librerie, software, programmi e dati per eseguire GEMPAK 7.10.0.1. Lo script presuppone una directory pulita senza altre installazioni di GEMPAK.
 
