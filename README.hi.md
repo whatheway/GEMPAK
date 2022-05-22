@@ -1,6 +1,6 @@
 # GEMPAK 7.14.0.1 स्वयं स्थापित Scirpt
 
-This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
+यह एक स्क्रिप्ट है जो GEMPAK 7.10.0.1 को चलाने के लिए सभी लाइब्रेरियों, सॉफ़्टवेयर, प्रोग्राम और डेटा को स्थापित करती है। स्क्रिप्ट एक स्वच्छ निर्देशिका मानती है जिसमें GEMPAK की कोई अन्य स्थापना नहीं है।
 
 # इंस्टालेशन
 
@@ -19,8 +19,8 @@ This is a script that installs all the libararies, software, programs, and data 
 उबंटू 20.04.4 एलटीएस में परीक्षण किया गया
 64-बिट सिस्टम में निर्मित
 
-Tested with current available libraries on 04/28/2022. 
+04/28/2022 को वर्तमान उपलब्ध पुस्तकालयों के साथ परीक्षण किया गया।
 
 # अनुमानित रन टाइम ~ 15 - 45 मिनट
 
-### Special thanks to  GitHub users akrherz & mzuranski
+### GitHub उपयोगकर्ताओं के लिए विशेष धन्यवाद akrherz & mzuranski
