@@ -1,10 +1,10 @@
-# GEMPAK 7.14.0.1 Self Install Scirpt
+# GEMPAK7.14.0.1セルフインストールスクリプト
 
 これは、GEMPAK 7.10.0.1を実行するためのすべてのライブラリ、ソフトウェア、プログラム、およびデータをインストールするスクリプトです。スクリプトは、GEMPAKが他にインストールされていないクリーンなディレクトリを想定しています。
 
 # インストール
 
-(Make sure to download folder into your Home Directory):
+（必ずフォルダをホームディレクトリにダウンロードしてください）：
 
 > git clone[ｈっｔｐｓ：／／ぎてゅｂ。こｍ／うぁてぇわｙ／げＭぱＫ](https://github.com/whatheway/GEMPAK)
 >
@@ -21,6 +21,6 @@ Ubuntu20.04.4LTSでテスト済み
 
 2022年4月28日に現在利用可能なライブラリでテストされています。
 
-# Estimated Run Time ~ 15 - 45 Minutes
+# 推定実行時間〜15〜45分
 
 ### GitHubユーザーakrherz＆mzuranskiに感謝します
