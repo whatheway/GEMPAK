@@ -2,7 +2,7 @@
 
 Ez egy szkript, amely telepíti az összes könyvtárat, szoftvert, programot és adatot a GEMPAK 7.10.0.1 futtatásához. A szkript tiszta könyvtárat feltételez, a GEMPAK más telepítése nélkül.
 
-# Installation
+# Telepítés
 
 (Mindenképpen töltse le a mappát a saját könyvtárába):
 
