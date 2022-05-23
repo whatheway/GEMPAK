@@ -35,7 +35,6 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-          name: Translate README
       - name: Adding README - German
         uses: dephraiim/translate-readme@main
         with:
@@ -106,5 +105,5 @@ jobs:
           LANG: zu
       - name: Create dir
         run: |
-          mkdir 'Translated Readme.md'
-          mv readme-*.md 'Translated Readme.md'
+          mkdir Translated\ Readme.md
+          mv readme-*.md Translated\ Readme.md
