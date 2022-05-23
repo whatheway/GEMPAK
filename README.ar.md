@@ -12,7 +12,7 @@
 >
 > ./جمبكنصتل.ش
 
-# Please make sure to read the GEMPAK-Install script before installing.
+# يرجى التأكد من قراءة البرنامج النصي GEMPAK-Install قبل التثبيت.
 
 لقد قدمت تعليقات حول ما يفعله البرنامج النصي ومعلومات حول ملفات التكوين.
 
