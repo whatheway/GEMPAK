@@ -1,12 +1,12 @@
-# GEMPAK 7.14.0.1 Self Install Scirpt
+# GEMPAK 7.14.0.1 Script de autoinstalação
 
 Este é um script que instala todas as bibliotecas, softwares, programas e dados para executar o GEMPAK 7.10.0.1. O script assume um diretório limpo sem outras instalações do GEMPAK.
 
-# Installation
+# Instalação
 
-(Certifique-se de baixar a pasta em seu diretório pessoal):
+(Make sure to download folder into your Home Directory):
 
-> git clone <https://github.com/whatheway/GEMPAK>
+> git clone<https://github.com/whatheway/GEMPAK>
 >
 > chmod +x GEMPAK-Install.sh
 >
