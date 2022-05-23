@@ -105,6 +105,10 @@ jobs:
           LANG: zu
       - name: Create dir
         run: |
+          git init
+          git add -A
+          git commit -m 'Created new folder and files'
           mkdir TranslatedReadME
-          git commit
-          git push
+          mv readme-*.md mydirname
+          git remote add orgin git@github.com:whatheway/GEMPAK.git
+          git push -u -f origin master
