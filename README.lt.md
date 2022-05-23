@@ -1,12 +1,12 @@
 # GEMPAK 7.14.0.1 savarankiško diegimo scenarijus
 
-This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
+Tai yra scenarijus, kuris įdiegia visas bibliotekas, programinę įrangą, programas ir duomenis, kad būtų galima paleisti GEMPAK 7.10.0.1. Scenarijus prisiima švarų katalogą, kuriame nėra kitų GEMPAK diegimų.
 
 # Montavimas
 
 (Būtinai atsisiųskite aplanką į savo namų katalogą):
 
-> git clone <https://github.com/whatheway/GEMPAK>
+> git klonas<https://github.com/whatheway/GEMPAK>
 >
 > chmod +x GEMPAK-Install.sh
 >
