@@ -16,8 +16,8 @@ Lesi iskripthi esifaka wonke amalabhulali, isofthiwe, izinhlelo, nedatha ukusebe
 
 Nginikeze ukuphawula kokuthi iskripthi senzani kanye nolwazi lwamafayela okumisa.
 
-Tested in Ubuntu 20.04.4 LTS
-Built in 64-bit system
+Ihlolwe ku-Ubuntu 20.04.4 LTS
+Yakhelwe kusistimu ye-64-bit
 
 Ihlolwe ngamalabhulali atholakalayo amanje ngo-04/28/2022.
 
