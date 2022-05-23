@@ -12,15 +12,15 @@
 >
 > ./गेमापक-इनस्टॉल.श
 
-# कृपया इंस्टॉल करने से पहले GEMPAK-इंस्टॉल स्क्रिप्ट को पढ़ना सुनिश्चित करें।
+# Please make sure to read the GEMPAK-Install script before installing.
 
-मैंने इस पर टिप्पणियाँ प्रदान की हैं कि स्क्रिप्ट क्या कर रही है और कॉन्फ़िगरेशन फ़ाइलों के बारे में जानकारी।
+I have provided comments on what the script is doing and information on configuration files.
 
-उबंटू 20.04.4 एलटीएस में परीक्षण किया गया
-64-बिट सिस्टम में निर्मित
+Tested in Ubuntu 20.04.4 LTS
+Built in 64-bit system
 
 04/28/2022 को वर्तमान उपलब्ध पुस्तकालयों के साथ परीक्षण किया गया।
 
-# अनुमानित रन टाइम ~ 15 - 45 मिनट
+# Estimated Run Time ~ 15 - 45 Minutes
 
 ### GitHub उपयोगकर्ताओं के लिए विशेष धन्यवाद akrherz & mzuranski
