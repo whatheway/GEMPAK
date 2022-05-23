@@ -2,7 +2,7 @@
 
 Questo è uno script che installa tutte le librerie, software, programmi e dati per eseguire GEMPAK 7.10.0.1. Lo script presuppone una directory pulita senza altre installazioni di GEMPAK.
 
-# Installation
+# Installazione
 
 (Assicurati di scaricare la cartella nella tua Home Directory):
 
@@ -12,7 +12,7 @@ Questo è uno script che installa tutte le librerie, software, programmi e dati 
 >
 > ./GEMAPAK-Install.sh
 
-# Assicurati di leggere lo script GEMPAK-Install prima dell'installazione.
+# Please make sure to read the GEMPAK-Install script before installing.
 
 Ho fornito commenti su ciò che sta facendo lo script e informazioni sui file di configurazione.
 
