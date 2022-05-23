@@ -19,7 +19,7 @@ Nimetoa maoni juu ya kile hati inafanya na habari juu ya faili za usanidi.
 Ilijaribiwa katika Ubuntu 20.04.4 LTS
 Imejengwa katika mfumo wa 64-bit
 
-Tested with current available libraries on 04/28/2022. 
+Ilijaribiwa na maktaba zinazopatikana sasa mnamo 04/28/2022.
 
 # Muda uliokadiriwa wa Kukimbia ~ Dakika 15 - 45
 
