@@ -4,7 +4,7 @@
 
 # Εγκατάσταση
 
-(Make sure to download folder into your Home Directory):
+(Βεβαιωθείτε ότι έχετε πραγματοποιήσει λήψη του φακέλου στον Κατάλογο Αρχικής σελίδας):
 
 > git κλώνος[ήττψ://γιθοβ.κομ/βηαθεωαι/ΓΕΜΠΑΚ](https://github.com/whatheway/GEMPAK)
 >
