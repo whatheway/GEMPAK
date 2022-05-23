@@ -12,7 +12,7 @@ Jest to skrypt, który instaluje wszystkie biblioteki, oprogramowanie, programy 
 >
 > ./GEMAPAK-Install.sh
 
-# Przed instalacją koniecznie przeczytaj skrypt GEMPAK-Install.
+# Please make sure to read the GEMPAK-Install script before installing.
 
 Dodałem komentarze na temat tego, co robi skrypt oraz informacje o plikach konfiguracyjnych.
 
