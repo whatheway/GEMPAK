@@ -19,8 +19,8 @@ Ich habe Kommentare zur Funktionsweise des Skripts und Informationen zu Konfigur
 Getestet in Ubuntu 20.04.4 LTS
 Eingebautes 64-Bit-System
 
-Getestet mit aktuell verfügbaren Bibliotheken am 28.04.2022.
+Tested with current available libraries on 04/28/2022. 
 
-# Estimated Run Time ~ 15 - 45 Minutes
+# Geschätzte Laufzeit ~ 15 - 45 Minuten
 
 ### Besonderer Dank geht an die GitHub-Benutzer akrherz & mzuranski
