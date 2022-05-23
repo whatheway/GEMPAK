@@ -1,10 +1,10 @@
 # GEMPAK 7.14.0.1 Scirpt tự cài đặt
 
-Đây là một tập lệnh cài đặt tất cả các thư viện, phần mềm, chương trình và dữ liệu để chạy GEMPAK 7.10.0.1. Tập lệnh giả định một thư mục sạch không có cài đặt GEMPAK nào khác.
+This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
 
 # Cài đặt
 
-(Đảm bảo tải thư mục vào Thư mục chính của bạn):
+(Đảm bảo tải xuống thư mục vào Thư mục chính của bạn):
 
 > git clone<https://github.com/whatheway/GEMPAK>
 >
