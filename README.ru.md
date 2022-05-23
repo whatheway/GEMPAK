@@ -12,7 +12,7 @@
 >
 > ./ГЕМАПАК-Инсталл.ш
 
-# Please make sure to read the GEMPAK-Install script before installing.
+# Перед установкой обязательно прочтите сценарий GEMPAK-Install.
 
 Я предоставил комментарии о том, что делает сценарий, и информацию о файлах конфигурации.
 
