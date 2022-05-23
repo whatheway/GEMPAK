@@ -6,13 +6,13 @@
 
 （必ずフォルダをホームディレクトリにダウンロードしてください）：
 
-> git clone<https://github.com/whatheway/GEMPAK>
+> git clone[ｈっｔｐｓ：／／ぎてゅｂ。こｍ／うぁてぇわｙ／げＭぱＫ](https://github.com/whatheway/GEMPAK)
 >
 > chmod + x GEMPAK-Install.sh
 >
-> 。／げまぱＫーいんｓたっｌ。ｓｈ
+> ./GEMAPAK-Install.sh
 
-# インストールする前に、必ずGEMPAK-Installスクリプトをお読みください。
+# Please make sure to read the GEMPAK-Install script before installing.
 
 スクリプトの実行内容と構成ファイルに関する情報についてコメントを提供しました。
 
@@ -23,4 +23,4 @@ Ubuntu20.04.4LTSでテスト済み
 
 # 推定実行時間〜15〜45分
 
-### Special thanks to  GitHub users akrherz & mzuranski
+### GitHubユーザーakrherz＆mzuranskiに感謝します
