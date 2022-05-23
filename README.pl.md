@@ -1,6 +1,6 @@
 # Skrypt samodzielnej instalacji GEMPAK 7.14.0.1
 
-Jest to skrypt, który instaluje wszystkie biblioteki, oprogramowanie, programy i dane potrzebne do uruchomienia programu GEMPAK 7.10.0.1. Skrypt zakłada czysty katalog bez innych instalacji GEMPAK.
+This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
 
 # Instalacja
 
