@@ -6,7 +6,7 @@ Il s'agit d'un script qui installe toutes les bibliothèques, logiciels, program
 
 (Assurez-vous de télécharger le dossier dans votre répertoire personnel):
 
-> clone git<https://github.com/whatheway/GEMPAK>
+> git clone <https://github.com/whatheway/GEMPAK>
 >
 > chmod +x GEMPAK-Install.sh
 >
