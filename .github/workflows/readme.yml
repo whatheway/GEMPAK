@@ -105,4 +105,4 @@ jobs:
           LANG: zu
       - name: Create dir
         run: |
-          mkdir Translated/ReadME
+          mkdir TranslatedReadME
