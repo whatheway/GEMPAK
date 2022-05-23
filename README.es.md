@@ -1,4 +1,4 @@
-# GEMPAK 7.14.0.1 Fragmento de autoinstalación
+# GEMPAK 7.14.0.1 Self Install Scirpt
 
 Este es un script que instala todas las bibliotecas, software, programas y datos para ejecutar GEMPAK 7.10.0.1. El script asume un directorio limpio sin otras instalaciones de GEMPAK.
 
