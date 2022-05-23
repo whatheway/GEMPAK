@@ -10,9 +10,9 @@
 >
 > chmod + x GEMPAK-Install.sh
 >
-> ./GEMAPAK-Install.sh
+> 。／げまぱＫーいんｓたっｌ。ｓｈ
 
-# Please make sure to read the GEMPAK-Install script before installing.
+# インストールする前に、必ずGEMPAK-Installスクリプトをお読みください。
 
 スクリプトの実行内容と構成ファイルに関する情報についてコメントを提供しました。
 
