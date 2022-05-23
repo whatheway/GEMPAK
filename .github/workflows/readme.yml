@@ -106,3 +106,5 @@ jobs:
       - name: Create dir
         run: |
           mkdir TranslatedReadME
+          git commit
+          git push
