@@ -4,7 +4,7 @@
 
 # Cài đặt
 
-(Đảm bảo tải xuống thư mục vào Thư mục chính của bạn):
+(Đảm bảo tải thư mục vào Thư mục chính của bạn):
 
 > git clone<https://github.com/whatheway/GEMPAK>
 >
