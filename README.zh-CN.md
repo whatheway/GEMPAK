@@ -6,7 +6,7 @@
 
 （确保将文件夹下载到您的主目录中）：
 
-> git 克隆[HTTPS://GitHub.com/what和way/gem pak](https://github.com/whatheway/GEMPAK)
+> git 克隆<https://github.com/whatheway/GEMPAK>
 >
 > chmod +x GEMPAK-Install.sh
 >
@@ -14,7 +14,7 @@
 
 # 请确保在安装前阅读 GEMPAK-Install 脚本。
 
-我已经提供了关于脚本正在做什么的评论以及关于配置文件的信息。
+我已经提供了有关脚本正在做什么的评论以及有关配置文件的信息。
 
 在 Ubuntu 20.04.4 LTS 中测试
 内置64位系统
