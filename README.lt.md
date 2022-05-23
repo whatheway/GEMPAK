@@ -12,7 +12,7 @@ Tai yra scenarijus, kuris įdiegia visas bibliotekas, programinę įrangą, prog
 >
 > ./GEMAPAK-Install.sh
 
-# Prieš diegdami būtinai perskaitykite GEMPAK-Install scenarijų.
+# Please make sure to read the GEMPAK-Install script before installing.
 
 Pateikiau komentarus apie tai, ką daro scenarijus, ir informaciją apie konfigūracijos failus.
 
