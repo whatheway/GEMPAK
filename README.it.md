@@ -12,12 +12,12 @@ Questo è uno script che installa tutte le librerie, software, programmi e dati 
 >
 > ./GEMAPAK-Install.sh
 
-# Please make sure to read the GEMPAK-Install script before installing.
+# Assicurati di leggere lo script GEMPAK-Install prima dell'installazione.
 
 Ho fornito commenti su ciò che sta facendo lo script e informazioni sui file di configurazione.
 
-Testato su Ubuntu 20.04.4 LTS
-Sistema integrato a 64 bit
+Tested in Ubuntu 20.04.4 LTS
+Built in 64-bit system
 
 Testato con le librerie attualmente disponibili il 28/04/2022.
 
