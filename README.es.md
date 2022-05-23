@@ -1,4 +1,4 @@
-# GEMPAK 7.14.0.1 Self Install Scirpt
+# GEMPAK 7.14.0.1 Fragmento de autoinstalación
 
 Este es un script que instala todas las bibliotecas, software, programas y datos para ejecutar GEMPAK 7.10.0.1. El script asume un directorio limpio sin otras instalaciones de GEMPAK.
 
@@ -12,12 +12,12 @@ Este es un script que instala todas las bibliotecas, software, programas y datos
 >
 > ./GEMAPAK-Install.sh
 
-# Please make sure to read the GEMPAK-Install script before installing.
+# Asegúrese de leer el script de instalación de GEMPAK antes de instalar.
 
 He proporcionado comentarios sobre lo que está haciendo el script e información sobre los archivos de configuración.
 
-Tested in Ubuntu 20.04.4 LTS
-Built in 64-bit system
+Probado en Ubuntu 20.04.4 LTS
+Sistema integrado de 64 bits
 
 Probado con las bibliotecas disponibles actualmente el 28/04/2022.
 
