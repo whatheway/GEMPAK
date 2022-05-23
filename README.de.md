@@ -21,6 +21,6 @@ Eingebautes 64-Bit-System
 
 Getestet mit aktuell verfügbaren Bibliotheken am 28.04.2022.
 
-# Geschätzte Laufzeit ~ 15 - 45 Minuten
+# Estimated Run Time ~ 15 - 45 Minutes
 
 ### Besonderer Dank geht an die GitHub-Benutzer akrherz & mzuranski
