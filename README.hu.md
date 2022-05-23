@@ -1,6 +1,6 @@
 # GEMPAK 7.14.0.1 Self Install Scirpt
 
-Ez egy szkript, amely telepíti az összes könyvtárat, szoftvert, programot és adatot a GEMPAK 7.10.0.1 futtatásához. A szkript tiszta könyvtárat feltételez, a GEMPAK más telepítése nélkül.
+This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
 
 # Telepítés
 
