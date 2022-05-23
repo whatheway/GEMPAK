@@ -105,5 +105,4 @@ jobs:
           LANG: zu
       - name: Create dir
         run: |
-          mkdir Translated\ Readme.md
-          mv readme-*.md Translated\ Readme.md
+          mkdir 'Translated ReadME'
