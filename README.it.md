@@ -1,8 +1,8 @@
-# GEMPAK 7.14.0.1 Self Install Scirpt
+# GEMPAK 7.14.0.1 Scrpt di installazione automatica
 
-This is a script that installs all the libararies, software, programs, and data to run GEMPAK 7.10.0.1.  Script assumes a clean directory with no other installations of GEMPAK.
+Questo è uno script che installa tutte le librerie, software, programmi e dati per eseguire GEMPAK 7.10.0.1. Lo script presuppone una directory pulita senza altre installazioni di GEMPAK.
 
-# Installazione
+# Installation
 
 (Assicurati di scaricare la cartella nella tua Home Directory):
 
@@ -19,7 +19,7 @@ Ho fornito commenti su ciò che sta facendo lo script e informazioni sui file di
 Testato su Ubuntu 20.04.4 LTS
 Sistema integrato a 64 bit
 
-Tested with current available libraries on 04/28/2022. 
+Testato con le librerie attualmente disponibili il 28/04/2022.
 
 # Tempo di esecuzione stimato ~ 15 - 45 minuti
 
