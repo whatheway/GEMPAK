@@ -14,7 +14,7 @@
 
 # يرجى التأكد من قراءة البرنامج النصي GEMPAK-Install قبل التثبيت.
 
-لقد قدمت تعليقات على ما يفعله البرنامج النصي ومعلومات حول ملفات التكوين.
+I have provided comments on what the script is doing and information on configuration files.
 
 تم الاختبار في Ubuntu 20.04.4 LTS
 نظام مدمج 64 بت
