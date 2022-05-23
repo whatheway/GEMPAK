@@ -14,7 +14,7 @@ GEMPAK 7.10.0.1을 실행하기 위한 모든 라이브러리, 소프트웨어, 
 
 # 설치하기 전에 GEMPAK-Install 스크립트를 읽으십시오.
 
-스크립트가 수행하는 작업과 구성 파일에 대한 정보에 대한 설명을 제공했습니다.
+I have provided comments on what the script is doing and information on configuration files.
 
 Ubuntu 20.04.4 LTS에서 테스트됨
 64비트 시스템 내장
