@@ -21,3 +21,6 @@ Tested with current available libraries on 04/28/2022.
 
 # Estimated Run Time ~ 15 - 45 Minutes
 ### Special thanks to  GitHub users akrherz & mzuranski
+
+
+![GitHub Sponsor](https://img.shields.io/github/sponsors/<whatheway>?label=Sponsor&logo=GitHub)
